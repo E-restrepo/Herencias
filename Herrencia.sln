@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Taller01", "Taller01", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{144D9D0B-93E8-480A-9E73-1E2F76337F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Taller_Herencia\Geometry.csproj", "{3F3B28D9-386B-423B-8A6B-2D3D54E0DF8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144D9D0B-93E8-480A-9E73-1E2F76337F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144D9D0B-93E8-480A-9E73-1E2F76337F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144D9D0B-93E8-480A-9E73-1E2F76337F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144D9D0B-93E8-480A-9E73-1E2F76337F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3B28D9-386B-423B-8A6B-2D3D54E0DF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3B28D9-386B-423B-8A6B-2D3D54E0DF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3B28D9-386B-423B-8A6B-2D3D54E0DF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3B28D9-386B-423B-8A6B-2D3D54E0DF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{144D9D0B-93E8-480A-9E73-1E2F76337F11} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16AF8378-4954-451C-88D2-87426F230BDD}
+	EndGlobalSection
+EndGlobal
